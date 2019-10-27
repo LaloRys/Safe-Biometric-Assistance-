@@ -1,3 +1,3 @@
-# FormValidation, CRUD y Fotos
+# FormValidation, CRUD 
 
-Repositorio oficial de mi curso de Flutter
+Repositorio del proyecto para el reto ciudad digital
